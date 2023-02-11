@@ -19,9 +19,7 @@ Launch "Dappnet", it'll be in your Applications. You should see this:
 
 (If not, you can check the logs by running `/Applications/Dappnet.app/Contents/MacOS/Dappnet` in your Terminal. Send them to me.)
 
-Click any of the dapps and they will open in a new window. Each dapp is loaded trustlessly from IPFS.
-
-
+Now we need to upgrade Chrome to work with Dappnet.
 
 ### Using Dappnet with Chrome.
 
