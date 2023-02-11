@@ -6,7 +6,7 @@ Welcome to a whole new world ;)
 
 ### Install the app
 
-1. Download the [package](https://github.com/liamzebedee/test1717/releases/download/v1.4.1/Dappnet-1.4.1.pkg) for macOS.
+1. Download the [package](https://github.com/liamzebedee/test1717/releases/download/v1.5.0/Dappnet-1.5.0.pkg) for macOS.
 2. Install.
 
 ### Now run it!
