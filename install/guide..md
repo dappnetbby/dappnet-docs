@@ -1,4 +1,4 @@
-# Guide.
+# Install guide.
 
 Welcome to a whole new world ;)
 
@@ -35,7 +35,7 @@ Click any of the dapps and they will open in a new window. Each dapp is loaded t
 
 And that's it!
 
-.eth urls will load in your browser. They need to end in a slash `/` when you type them in the URL bar, otherwise it goes to Google.
+.eth urls will load in your browser. **They need to end in a slash `/` when you type them in the URL bar, otherwise it goes to Google.**
 
 [![image](https://user-images.githubusercontent.com/584141/190633788-3036d5a4-8c33-4c38-adb9-8c9e5c70c760.png)](https://user-images.githubusercontent.com/584141/190633788-3036d5a4-8c33-4c38-adb9-8c9e5c70c760.png)
 
