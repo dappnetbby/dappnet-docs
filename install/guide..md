@@ -25,13 +25,13 @@ Click any of the dapps and they will open in a new window. Each dapp is loaded t
 
 ### Using Dappnet with Chrome.
 
-1. Download [dappnet-chrome](https://github.com/gliss-co/undisclosed/releases/download/v1.3.3/dappnet-extension\_chrome\_0.1.6.zip).
+1. Download [dappnet-chrome](https://github.com/gliss-co/undisclosed/releases/download/extension-chrome-1.5/dappnet-extension\_chrome\_0.2.0.zip).
 2. Unzip.
 3. Open chrome://extensions/\
    ![](<../.gitbook/assets/Screen Shot 2022-09-16 at 9.57.25 pm.png>)
 4. Enable developer mode.
 5. Click "Load unpacked extension"
-6. Select the `dappnet-extension_chrome_0.1.6` folder.
+6. Select the `dappnet-extension_chrome_0.2.0` folder.
 
 And that's it!
 
