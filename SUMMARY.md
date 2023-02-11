@@ -3,6 +3,7 @@
 ## Overview
 
 * [What is Dappnet?](README.md)
+* [Technical architecture.](overview/technical-architecture..md)
 * [🔗 Links.](overview/links..md)
 
 ## Deploying to Dappnet
