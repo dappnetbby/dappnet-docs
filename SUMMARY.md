@@ -2,7 +2,7 @@
 
 ## Overview
 
-* [What is Dappnet?](README.md)
+* [What is Dappnet?](overview/what-is-dappnet.md)
 * [Technical architecture.](overview/technical-architecture..md)
 * [🔗 Links.](overview/links..md)
 
