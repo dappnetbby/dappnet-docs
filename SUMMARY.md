@@ -11,7 +11,7 @@
 
 ## Install
 
-* [Guide.](install/guide..md)
+* [Install guide.](install/guide..md)
 * [Supported platforms.](install/supported-platforms..md)
 
 ## Deploying to Dappnet
