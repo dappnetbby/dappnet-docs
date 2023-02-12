@@ -17,4 +17,4 @@ TBA
 
 Updates:
 
-{% embed url="https://mirror.xyz/nakamofo.eth/-JYoey0k750kznLW-GZemDZc18ImnfUZfgU9ACSIhLY" %}
+ - [Update #1](https://mirror.xyz/nakamofo.eth/-JYoey0k750kznLW-GZemDZc18ImnfUZfgU9ACSIhLY)
