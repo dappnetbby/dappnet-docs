@@ -6,6 +6,7 @@
 
 * [What is Dappnet?](overview/what-is-dappnet.md)
 * [Technical architecture.](overview/technical-architecture.md)
+* [Roadmap.](overview/roadmap..md)
 * [Comparison.](overview/comparison.md)
 * [🔗 Links.](overview/links.md)
 
