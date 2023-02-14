@@ -16,4 +16,5 @@ For a detailed overview, see the announcement thread - [https://twitter.com/liam
 * Self hosted frontend and infrastructure to deliver them.
 * An actually usable and performant permaweb client. Local ENS gateway and IPFS client running in the background of your web browser to natively access ENS sites
 * Full stack ENS infra built into browsers.
+* A place where you can access decentralised domains hosted on decentralised storage.
 
