@@ -21,6 +21,10 @@ Launch "Dappnet", it'll be in your Applications. You should see this:
 
 Now we need to upgrade your browser to work with Dappnet.
 
+### Using Dappnet with Firefox.
+
+Follow the [instructions here](firefox..md).
+
 ### Using Dappnet with Chrome.
 
 1. Download [dappnet-chrome](https://github.com/gliss-co/undisclosed/releases/download/extension-chrome-1.5/dappnet-extension\_chrome\_0.2.0.zip).
@@ -29,12 +33,6 @@ Now we need to upgrade your browser to work with Dappnet.
 4. Enable developer mode.
 5. Click "Load unpacked extension"
 6. Select the `dappnet-extension_chrome_0.2.0` folder.
-
-### Using Dappnet with Firefox.
-
-Firefox is a bit more complicated. Follow the [instructions here](firefox..md).
-
-### Explore the decentralized web.
 
 And that's it!
 
