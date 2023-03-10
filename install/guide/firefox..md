@@ -1,4 +1,6 @@
-# Firefox.
+# Firefox
+
+### Using Dappnet with Firefox.
 
 To use Dappnet with Firefox, we have to do one extra step.&#x20;
 
