@@ -13,7 +13,9 @@
 
 ## Install
 
-* [Install guide.](install/guide.md)
+* [Install guide.](install/guide/README.md)
+  * [Chrome.](install/guide/chrome..md)
+  * [Firefox.](install/guide/firefox..md)
 * [Supported platforms.](install/supported-platforms.md)
 
 ## Deploying to Dappnet

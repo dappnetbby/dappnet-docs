@@ -2,7 +2,7 @@
 
 Welcome to a whole new world ;)
 
-**Compatibility**: macOS with Chrome.
+**Compatibility**: macOS with Chrome/Firefox.
 
 ### Install the app
 
@@ -19,17 +19,24 @@ Launch "Dappnet", it'll be in your Applications. You should see this:
 
 (If not, you can check the logs by running `/Applications/Dappnet.app/Contents/MacOS/Dappnet` in your Terminal. Send them to me.)
 
-Now we need to upgrade Chrome to work with Dappnet.
+Now we need to upgrade your browser to work with Dappnet.
 
 ### Using Dappnet with Chrome.
 
 1. Download [dappnet-chrome](https://github.com/gliss-co/undisclosed/releases/download/extension-chrome-1.5/dappnet-extension\_chrome\_0.2.0.zip).
 2. Unzip.
-3. Open chrome://extensions/\
-   ![](<../.gitbook/assets/Screen Shot 2022-09-16 at 9.57.25 pm.png>)
+3. Open chrome://extensions/
 4. Enable developer mode.
 5. Click "Load unpacked extension"
 6. Select the `dappnet-extension_chrome_0.2.0` folder.
+
+### Using Dappnet with Firefox.
+
+
+
+1.
+
+### Explore the decentralized web.
 
 And that's it!
 
