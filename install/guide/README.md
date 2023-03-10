@@ -32,9 +32,7 @@ Now we need to upgrade your browser to work with Dappnet.
 
 ### Using Dappnet with Firefox.
 
-
-
-1.
+Firefox is a bit more complicated. Follow the [instructions here](firefox..md).
 
 ### Explore the decentralized web.
 
