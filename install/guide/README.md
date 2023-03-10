@@ -23,7 +23,7 @@ Now we need to upgrade your browser to work with Dappnet.
 
 ### Using Dappnet with Firefox.
 
-Follow the [instructions here](firefox..md).
+Follow the [instructions here](firefox.md).
 
 ### Using Dappnet with Chrome.
 
