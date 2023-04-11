@@ -9,6 +9,7 @@
 * [Real decentralization.](overview/real-decentralization.md)
 * [Roadmap.](overview/roadmap..md)
 * [Comparison.](overview/comparison.md)
+* [Media/Press.](overview/media-press..md)
 * [🔗 Links.](overview/links.md)
 
 ## Install
