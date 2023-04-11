@@ -6,7 +6,7 @@ Welcome to a whole new world ;)
 
 ### Install the app
 
-1. Download the [package](https://github.com/liamzebedee/test1717/releases/download/v1.6.0/Dappnet-1.6.0.pkg) for macOS.
+1. Download the [package](https://dappnet-update-server-pi.vercel.app/latest/mac/pkg) for macOS.
 2. Install.
 
 ### Now run it!
@@ -27,12 +27,9 @@ Follow the [instructions here](firefox..md).
 
 ### Using Dappnet with Chrome.
 
-1. Download [dappnet-chrome](https://github.com/gliss-co/undisclosed/releases/download/extension-chrome-1.5/dappnet-extension\_chrome\_0.2.0.zip).
-2. Unzip.
-3. Open chrome://extensions/
-4. Enable developer mode.
-5. Click "Load unpacked extension"
-6. Select the `dappnet-extension_chrome_0.2.0` folder.
+Click the link below to install the Dappnet extension.
+
+{% embed url="https://chrome.google.com/webstore/detail/dappnet/aaejjpmafbcbidcjmmkangcfcabiidlf" %}
 
 And that's it!
 

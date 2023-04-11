@@ -1,12 +1,12 @@
 # 🔗 Links.
 
 **Github**\
-TBA
+[https://github.com/liamzebedee/dappnet](https://github.com/liamzebedee/dappnet)
 
 **Feature tracking and R\&D**\
 [https://github.com/gliss-co/dappnet-features/issues](https://github.com/gliss-co/dappnet-features/issues)
 
-**Project board**.\
+**Project board**\
 [https://github.com/users/liamzebedee/projects/4/views/3?layout=board](https://github.com/users/liamzebedee/projects/4/views/3?layout=board)
 
 **Discord**\
