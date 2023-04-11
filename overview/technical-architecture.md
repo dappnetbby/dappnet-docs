@@ -7,8 +7,8 @@ Dappnet is a name for a combination of technologies and architectural approach, 
 * Decentralized apps ("dapps") are built atop the web runtime, using HTML/CSS/JS.
 * They are compiled into a static bundle ([SPA](https://en.wikipedia.org/wiki/Single-page\_application)) and published to IPFS.
 * The IPFS network distributes content using P2P swarms à la BitTorrent. It is robust to censorship, and functions as a built-in CDN.
-* Developers buy `.eth` domains, which they point to their IPNS address (an IPFS address whose content can be updated).
-* Users access dapps like [uniswap.eth](https://uniswap.eth) in their browser. Their local IPFS node contributes resources to the P2P network.
+* Developers buy `.eth` domains, which they point to their IPNS address (an IPFS address whose content can be updated). ENS domains are uncensorable, and hosted on [Ethereum](https://ethereum.org/en/).
+* Users access dapps like [curve.eth](https://curve.eth/) in their browser. Their local IPFS node contributes resources to the P2P network.
 
 In terms of architecture, these are the following layers:
 
@@ -61,7 +61,7 @@ The proxy is hosted on `localhost:6801`.
 
 #### Local gateway.
 
-* Resolves .eth content hashes. Supports resolution of DNSLink, IPNS, and IPFS hashes.
+* Resolves .eth content hashes. Supports resolution of IPNS and IPFS hashes.
 * Streams content from the local IPFS node.
 * Provides HTTPS connections to .eth dapps. HTTPS is needed, otherwise dapps can't use libraries that use web sockets over TLS (wss://) due to mixed content policies of the browser. Wildcard certificates are not available for non-standard TLD's like .eth. So the gateway dynamically generates HTTPS certificates for all .eth domains, on-demand.
 * Caches DNSLink, ENS, and IPNS resolutions for the best UX possible.
