@@ -13,9 +13,9 @@ Welcome to a whole new world ;)
 
 [![image](https://user-images.githubusercontent.com/584141/190632676-505da23b-138c-47cd-8316-ab4ff4638106.png)](https://user-images.githubusercontent.com/584141/190632676-505da23b-138c-47cd-8316-ab4ff4638106.png)
 
-Launch "Dappnet", it'll be in your Applications. You should see this:
+Launch "Dappnet", it'll be in your Applications. You should see this
 
-[![https://i.imgur.com/0uIHPZn.png](https://camo.githubusercontent.com/0e73211bb1b350e82f0ce67ee04be389e215e420a3be3f12a0dec15f6fdb779d/68747470733a2f2f692e696d6775722e636f6d2f30754948505a6e2e706e67)](https://camo.githubusercontent.com/0e73211bb1b350e82f0ce67ee04be389e215e420a3be3f12a0dec15f6fdb779d/68747470733a2f2f692e696d6775722e636f6d2f30754948505a6e2e706e67)
+![](../../.gitbook/assets/image.png)
 
 (If not, you can check the logs by running `/Applications/Dappnet.app/Contents/MacOS/Dappnet` in your Terminal. Send them to me.)
 
