@@ -77,8 +77,8 @@ Steps:
     This will take \~20s. **NOTE: it doesn't display any logs/progress during this time, bit annoying I know.**.
 
     \
-    After this is done, you can access your IPNS site using a gateway. This time, the path is `/ipns/publicKeyHash`. For example, [`cloudflare-ipfs.com/ipns/.../`](https://cloudflare-ipfs.com/ipfs/QmYWY1EFwX1g2zuXGnSBA9T27LzvGdEpCyk9sR1GzicBG7/)``\
-    ``
+    After this is done, you can access your IPNS site using a gateway. This time, the path is `/ipns/publicKeyHash`. For example, [`cloudflare-ipfs.com/ipns/.../`](https://cloudflare-ipfs.com/ipfs/QmYWY1EFwX1g2zuXGnSBA9T27LzvGdEpCyk9sR1GzicBG7/)\
+
 5.  Configure your .eth domain.\
 
 

@@ -16,7 +16,8 @@
 
 * [Install guide.](install/guide/README.md)
   * [Chrome](install/guide/chrome.md)
-  * [Firefox](install/guide/firefox..md)
+  * [Firefox](install/guide/firefox.md)
+  * [Brave.](install/guide/brave..md)
 * [Play around.](install/play-around..md)
 * [Supported platforms.](install/supported-platforms.md)
 

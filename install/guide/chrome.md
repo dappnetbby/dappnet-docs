@@ -2,7 +2,13 @@
 
 ### Using Dappnet with Chrome.
 
-1. Download [dappnet-chrome](https://github.com/gliss-co/undisclosed/releases/download/extension-chrome-1.5/dappnet-extension\_chrome\_0.2.0.zip).
+**Via webstore.** We advise you install Dappnet via the Chrome Web store.&#x20;
+
+{% embed url="https://chrome.google.com/webstore/detail/dappnet/aaejjpmafbcbidcjmmkangcfcabiidlf" %}
+
+**Manual install.** However if this is not available (or censored), you can install **manually**:
+
+1. Download [dappnet-chrome](https://github.com/gliss-co/undisclosed/releases/download/extension-chrome-0.3.0/dappnet-extension\_chrome\_0.3.0.zip).
 2. Unzip.
 3. Open chrome://extensions/
 4. Enable developer mode.

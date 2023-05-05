@@ -1,21 +1,29 @@
 # 🔗 Links.
 
-**Github**\
-[https://github.com/liamzebedee/dappnet](https://github.com/liamzebedee/dappnet)
+### **Github.**
 
-**Feature tracking and R\&D**\
-[https://github.com/gliss-co/dappnet-features/issues](https://github.com/gliss-co/dappnet-features/issues)
+{% embed url="https://github.com/dappnetbby" %}
 
-**Project board**\
-[https://github.com/users/liamzebedee/projects/4/views/3?layout=board](https://github.com/users/liamzebedee/projects/4/views/3?layout=board)
+### **Discord**
 
-**Discord**\
-[https://discord.gg/mZUK6reQwT](https://discord.gg/mZUK6reQwT)
+{% embed url="https://discord.gg/mZUK6reQwT" %}
 
-**Twitter**\
-[https://twitter.com/liamzebedee](https://twitter.com/liamzebedee)\
-[https://twitter.com/dappnetbby](https://twitter.com/dappnetbby)
+### Twitter.
 
-**Updates**:
+[@dappnetbby](https://twitter.com/dappnetbby)
+
+
+
+### **Research and development (R\&D).**
+
+We track features and experiments in a separate repo. It has a lot of interesting things inside of it - stuff that'd be great for a hackathon!
+
+[https://github.com/dappnetbby/dappnet-features/issues](https://github.com/dappnetbby/dappnet-features/issues)
+
+<figure><img src="../.gitbook/assets/Screen Shot 2023-05-04 at 3.51.28 pm.png" alt=""><figcaption></figcaption></figure>
+
+
+
+### **Updates.**
 
 * [Update #1](https://mirror.xyz/nakamofo.eth/-JYoey0k750kznLW-GZemDZc18ImnfUZfgU9ACSIhLY)
