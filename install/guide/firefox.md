@@ -27,7 +27,7 @@ You should see this dialog:
 You should see a file picker popup. Now we have to find the file. To do this, we're going to find it in Finder first, and then drag it into this dialog.
 
 8. Open Finder, hit Shift+Cmd+G and paste this:\
-   `/Applications/Dappnet.app/data/` and hit enter.\
+   `~/Library/Application Support/Dappnet/data/` and hit enter.\
    \
    You should be navigated to a folder like below. \
    ![](<../../.gitbook/assets/Screen Shot 2023-03-10 at 1.25.10 pm.png>)
