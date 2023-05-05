@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/7_zuckscreen-copy-jpg.jpg
+coverY: 591
+---
+
 # 🔗 Links.
 
 ### **Github.**
