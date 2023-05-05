@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/New Project(15).png
+coverY: 0
+---
+
 # Install guide.
 
 Welcome to a whole new world ;)
