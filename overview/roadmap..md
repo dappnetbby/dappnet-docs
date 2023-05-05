@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/IMG_9820.jpeg
+coverY: 0
+---
+
 # Roadmap.
 
 Dappnet is an open-source project, built as a **public good**.

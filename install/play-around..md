@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/4_fgwpwg4wyaabu6b-format-jpg-name-large.jpg
+coverY: 92
+---
+
 # Play around.
 
 Congratulations! You're now on Dappnet.

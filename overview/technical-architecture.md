@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/145_86d30861fb7528cade032170da8317e4-png.png
+coverY: 168
+---
+
 # Technical architecture.
 
 ### How does Dappnet work?
