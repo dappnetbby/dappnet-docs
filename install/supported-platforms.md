@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/166_screen-shot-2019-01-10-at-10-32-09-am-png.png
+coverY: 0
+---
+
 # Supported platforms.
 
 Dappnet only works on **macOS** right now, with Chrome, Firefox and Brave as a browser.
