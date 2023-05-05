@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/New Project(14).png
+coverY: 0
+---
+
 # Real decentralization.
 
 Dappnet is building with decentralization at its core:
