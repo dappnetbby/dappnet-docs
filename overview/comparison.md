@@ -13,7 +13,5 @@ Backpack is honing in on building dapps and a great wallet for users.&#x20;
 In terms of **technical differences**:
 
 * xNFT's are hosted on Arweave, and cached by the CDN. Backpack must run a CDN, kind of like how Infura runs nodes for Metamask.&#x20;
-* Dappnet apps are hosted by IPFS nodes. Anyone can become a host and it can be just as performant (if not more performant). This is more decentralized though is challenging to achieve.
-
-
+* Dappnet apps are hosted by IPFS nodes (and soon BitTorrent). IPFS/BitTorrent employ swarm-based P2P solutions to serving content, where each node can also contribute their resources. The scalability of the two designs is to be considered.
 
