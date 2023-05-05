@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/FpYAXS6aMAMjVvH2.jpg
-coverY: 679
+cover: ../.gitbook/assets/DALL·E 2023-05-05 13.34.34.png
+coverY: -350
 ---
 
 # Real decentralization.
