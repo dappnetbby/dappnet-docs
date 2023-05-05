@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/IMG_0944.jpeg
+coverY: 0
+---
+
 # Media/Press.
 
 * [The Block](https://www.theblock.co/post/175483/crypto-dev-creates-way-to-access-prohibited-apps-like-tornado-cash)

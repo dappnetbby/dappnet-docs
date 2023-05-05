@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/IMG_0049.jpeg
+coverY: -28
+---
+
 # Comparison.
 
 ### Backpack and xNFT's.

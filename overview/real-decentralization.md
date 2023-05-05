@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/New Project(14).png
-coverY: 0
+cover: ../.gitbook/assets/FpYAXS6aMAMjVvH2.jpg
+coverY: 679
 ---
 
 # Real decentralization.
