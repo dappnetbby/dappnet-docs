@@ -7,12 +7,19 @@ Here's what you'll need:
 * an ENS name (.eth).
 * the ipfs binary - the client is called Kubo (used to be go-ipfs) - [install them here](https://dist.ipfs.tech/#kubo).
   * alternatively, you can use the ipfs binary included with Dappnet. Add these lines to your `.zshrc` or `.bash_profile` in order to access it:
-  *   ```
-      alias ipfs=/Applications/Dappnet.app/Contents/Resources/app.asar.unpacked/vendor/ipfs/go-ipfs_v0.13.0_darwin-amd64/ipfs
+  *   {% code overflow="wrap" %}
       ```
+      alias ipfs=/Applications/Dappnet.app/Contents/Resources/app.asar.unpacked/vendor/ipfs/kubo_v0.19.1_darwin-amd64/ipfs
 
       ```
-      export IPFS_PATH=~/Library/Application\ Support/.ipfs
+      {% endcode %}
+
+      ```
+      # We use a separate ipfs data folder here.
+      # Why? Because Dappnet runs ipfs in "lowpower" mode. This mode does not
+      # support hosting content, but saves on battery life.
+      # BitTorrent hosting will come soon, and be simpler.
+      export IPFS_PATH=~/Library/Application\ Support/.ipfs-deployment
       ```
 * a folder containing the files you're publishing.
 
