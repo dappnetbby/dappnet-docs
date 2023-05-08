@@ -84,7 +84,7 @@ The proxy is hosted on `localhost:6801`.
 
 Automatically configured to peer with Cloudflare for optimum performance.&#x20;
 
-The node operates in the `lowpower` profile, which does not contribute resources to the IPFS network. During testing we found IPFS consumes >20% CPU at peak, and some at idle due to its gossipping protocol. For this reason, we are building out integration for BitTorrent as a more decentralized and lightweight alternative.
+The node operates in the `lowpower` profile, which does not contribute resources to the IPFS network. This is because during testing we found the default IPFS consumes >20% CPU at peak, and some at idle due to its gossipping protocol. For this reason, we are building out integration for BitTorrent as a more decentralized and lightweight alternative. An article on this R\&D will come soon.
 
 #### Local .eth certificate authority.
 
